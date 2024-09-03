@@ -1,0 +1,9 @@
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\Ristinolla AI\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\Ristinolla AI\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\Ristinolla AI\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\Ristinolla AI\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.Form1.resources
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\Ristinolla AI\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\Ristinolla AI\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\Ristinolla AI\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\Ristinolla AI\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.exe
+C:\Users\h26073\OneDrive - Centria ammattikorkeakoulu Oy\Materiaalia kursseille\Csharp\Ristinolla AI\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.pdb

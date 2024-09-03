@@ -1,0 +1,11 @@
+C:\Users\Tero\Desktop\temp\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\Tero\Desktop\temp\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\Tero\Desktop\temp\Ristinolla\Ristinolla\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tero\Desktop\temp\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.Form1.resources
+C:\Users\Tero\Desktop\temp\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\Tero\Desktop\temp\Ristinolla\Ristinolla\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tero\Desktop\temp\Ristinolla\Ristinolla\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tero\Desktop\temp\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.exe
+C:\Users\Tero\Desktop\temp\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.pdb
+F:\Tero\Ohjelmointi\Csharp\Ristinolla AI\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.exe
+F:\Tero\Ohjelmointi\Csharp\Ristinolla AI\Ristinolla\Ristinolla\obj\x86\Debug\Ristinolla.pdb

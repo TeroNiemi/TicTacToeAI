@@ -1,2 +1,2 @@
-## Tic Tac Toe AI
+**Tic Tac Toe AI**
 Created by Tero Niemi
